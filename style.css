@@ -1,0 +1,26 @@
+
+            h1 {
+                color: rgb(236, 44, 11);
+            }
+
+            .header {
+                display : flex;
+                justify-content:space-around;
+                border: dashed;
+                color:rgb(60, 221, 28)
+            }
+            .Website {
+                display : flex;
+                flex-direction: column;
+                justify-content:space-between;
+                border: solid;
+                color: rgb(1, 0, 2);
+            }
+            .Grid {
+                display : flex;
+                justify-content:space-around;
+                flex-wrap:wrap;
+                border: dashed;
+                color: rgb(12, 235, 205);
+            }
+        
